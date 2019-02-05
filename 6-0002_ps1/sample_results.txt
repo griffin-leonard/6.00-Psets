@@ -1,0 +1,1 @@
+State	Democrat	Republican	EC_Votes6.00	1	2	5306.0001	4	5	36.0002	7	8	5
